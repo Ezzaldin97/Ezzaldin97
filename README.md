@@ -30,3 +30,15 @@ I am a Data Scientist with **2+ years of experience**. I design, solve and imple
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
 | • Python, SQL <br/> • Tensorflow, Scikit-Learn <br/> • NumPy, Pandas <br/> • GCP <br/> • Docker, Flask, Airflow, Prefect, Spark, Hive, Impala <br/> • DVC, MLFlow <br/> • PostgreSQL <br/> | • MLOps <br/> • Data Science, Statistics <br/> • recommender systems <br/> • batch & online serving <br/> • continuous training & monitoring <br/> |
+
+I post Data Sciense/Machine Learning content on 👇🏼
+
+[<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/ezzaldin-mamdouh/)
+
+<br/>Thank you ✌🏼 !<br/>
+
+-----
+
+<br/>
+
+![Ezzaldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzaldin97&show_icons=true&theme=gruvbox)
