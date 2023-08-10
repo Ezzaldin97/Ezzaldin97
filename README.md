@@ -33,7 +33,7 @@ I am a Data Scientist with **2+ years of experience**. I design, solve and imple
 
 I post Data Sciense/Machine Learning content on 👇🏼
 
-[<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/ezzaldin-mamdouh/)
+[<img alt="linkedin" width="40px" src="imgs/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/ezzaldin-mamdouh/)
 
 <br/>Thank you ✌🏼 !<br/>
 
